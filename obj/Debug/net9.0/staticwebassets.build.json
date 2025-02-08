@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gBIfB/OFFXRBbt2K/VPPGWWx5A2GGJVeDEEw7giGNJc=",
+  "Hash": "4FWuGSIWYY63S9dMISxcohGx3ze3kyZYTcNnb4PQ5hM=",
   "Source": "TodoApp",
   "BasePath": "_content/TodoApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TodoApp\\wwwroot",
       "Source": "TodoApp",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\",
       "BasePath": "_content/TodoApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "css/site#[.{fingerprint=h1acg4yzsy}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0ps7gw3wxy",
       "Integrity": "/LKdDKiOOoz0+dd9GPY3gbUiHLgn6G2nO93hQLJKkGg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "js/app#[.{fingerprint=s9k0r71dt5}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js",
+      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "76yyz7ahj2",
       "Integrity": "gb9H824yb0XlonvTOQsxfpDNf6Rz/6V4OhUbQfOh6qI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js"
+      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js"
     },
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "index#[.{fingerprint=kkk2oc3fok}]?.html.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "e2h0tl4ifs",
       "Integrity": "mjhdijd+NVHjh6aXXCJ9vsYqj+pt0DPDPzPiCgyHwAA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js",
+      "Identity": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\",
       "BasePath": "_content/TodoApp",
       "RelativePath": "js/app#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -201,7 +201,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -238,7 +238,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -283,7 +283,7 @@
     },
     {
       "Route": "css/site.h1acg4yzsy.css",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -346,7 +346,7 @@
     },
     {
       "Route": "css/site.h1acg4yzsy.css",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "Route": "css/site.h1acg4yzsy.css.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\egenlg8pe6-h1acg4yzsy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -444,7 +444,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -536,7 +536,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "Route": "index.kkk2oc3fok.html",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -644,7 +644,7 @@
     },
     {
       "Route": "index.kkk2oc3fok.html",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
     },
     {
       "Route": "index.kkk2oc3fok.html.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-kkk2oc3fok.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -742,7 +742,7 @@
     },
     {
       "Route": "js/app.js",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -797,7 +797,7 @@
     },
     {
       "Route": "js/app.js",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -834,7 +834,7 @@
     },
     {
       "Route": "js/app.js.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -879,7 +879,7 @@
     },
     {
       "Route": "js/app.s9k0r71dt5.js",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -942,7 +942,7 @@
     },
     {
       "Route": "js/app.s9k0r71dt5.js",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -987,7 +987,7 @@
     },
     {
       "Route": "js/app.s9k0r71dt5.js.gz",
-      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
+      "AssetFile": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\Debug\\net9.0\\compressed\\ixdndw4649-s9k0r71dt5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

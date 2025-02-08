@@ -1,0 +1,7 @@
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\TodoApp.exe
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\TodoApp.dll
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\TodoApp.deps.json
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\TodoApp.runtimeconfig.json
+C:\Users\Murtaza Rangwala\Desktop\Coding\TodoApp-dotNet\bin\Release\net9.0\publish\TodoApp.pdb

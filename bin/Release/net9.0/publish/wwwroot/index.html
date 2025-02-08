@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Todo App | Murtuza</title>
+    <link rel="stylesheet" href="./css/site.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Todo List</h1>
+      <div class="input-section">
+        <input
+          type="text"
+          id="todoInput"
+          placeholder="Add new todo..."
+          onkeypress="handleKeyPress(event)" />
+        <button onclick="addTodo()">Add</button>
+      </div>
+      <ul id="todoList"></ul>
+    </div>
+    <script src="./js/app.js"></script>
+  </body>
+</html>

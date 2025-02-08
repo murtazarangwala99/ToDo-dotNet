@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\wwwroot\\js\\app.js",
+      "Id": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\wwwroot\\js\\app.js",
       "PackagePath": "staticwebassets\\js\\app.js"
     },
     {

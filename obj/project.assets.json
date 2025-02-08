@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\TodoApp.csproj",
+      "projectUniqueName": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\TodoApp.csproj",
+      "projectPath": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\TodoApp.csproj",
       "packagesPath": "C:\\Users\\Murtaza Rangwala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp\\obj\\",
+      "outputPath": "C:\\Users\\Murtaza Rangwala\\Desktop\\Coding\\TodoApp-dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murtaza Rangwala\\AppData\\Roaming\\NuGet\\NuGet.Config"
